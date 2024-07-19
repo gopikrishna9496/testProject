@@ -4,6 +4,7 @@ This application will create a simple server that will keep pooling data from th
 Start by running
 
 npm install 
+
 npm start
 
 You can execute the data by calling http://localhost:3000
